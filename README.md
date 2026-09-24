@@ -852,3 +852,10 @@ The three modules collectively demonstrate practical skills in:
 
 The project is designed to be reproducible, modular, and runnable locally without requiring paid external services.
 
+## Final Submission Verification
+
+- One public GitHub repository contains all three modules.
+- `/data_pipeline`, `/analytics`, and `/support_assistant` are included.
+- Root project documentation is maintained in `README.md`.
+- The project uses the required offline/mock baseline for the Support Assistant.
+- The repository was developed using a feature-branch workflow and merged into `main`.
