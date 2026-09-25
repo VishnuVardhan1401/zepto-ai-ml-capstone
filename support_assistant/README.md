@@ -221,6 +221,10 @@ The `confidence` value is set deterministically to:
 
 `1.0`
 
+From the project root, run:
+
+```bash
+python3 -m support_assistant.graph
 ### direct_answer in mock mode
 
 For a `general_question`, no retrieval is performed.
