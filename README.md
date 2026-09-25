@@ -65,6 +65,21 @@ zepto-ai-ml-capstone/
     └── README.md
 ```
 
+## Installation
+
+This project uses a separate `requirements.txt` file for each module.
+
+### Module 1 — Data Pipeline
+
+```bash
+pip install -r data_pipeline/requirements.txt
+
+Module 2 — Analytics
+pip install -r analytics/requirements.txt
+
+Module 3 — Support Assistant
+pip install -r support_assistant/requirements.txt
+
 ---
 
 # Module 1 — Data Pipeline
